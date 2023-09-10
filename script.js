@@ -16,4 +16,3 @@ function toggleMode() {
 
   
 }
-git addEventListener.
